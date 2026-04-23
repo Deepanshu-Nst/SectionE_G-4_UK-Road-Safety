@@ -1,0 +1,22 @@
+# Original dataset (exclude large file)
+UK_Accident.csv
+
+# User guide
+START_HERE.txt
+
+# System files
+.DS_Store
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
