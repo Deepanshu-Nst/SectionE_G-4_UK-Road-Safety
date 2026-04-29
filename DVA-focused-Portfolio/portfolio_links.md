@@ -6,4 +6,4 @@
 - 🔗 [Ved's Portfolio](https://vedpawar2254.github.io/DVA-portfolio/)
 - 🔗 [Yash's Portfolio](https://portfolio-website-mocha-xi-30.vercel.app/)
 - 🔗 [Aditya's Portfolio](https://algoaditya21.github.io/DVA-Portfolio/)
-- 🔗 [Deepanshu's Portfolio]()
+- 🔗 [Deepanshu's Portfolio](https://dva-dashboard.vercel.app/)
